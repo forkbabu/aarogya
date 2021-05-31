@@ -1,0 +1,20 @@
+.class public interface abstract Lr/c/a/b/d/k/c$b;
+.super Ljava/lang/Object;
+.source "com.google.android.gms:play-services-base@@17.1.0"
+
+# interfaces
+.implements Lr/c/a/b/d/k/h/l;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lr/c/a/b/d/k/c;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "b"
+.end annotation
+
+.annotation runtime Ljava/lang/Deprecated;
+.end annotation

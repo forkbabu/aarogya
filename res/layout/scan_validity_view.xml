@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:tag="layout/scan_validity_view_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/TextStyleFontSemiBold" android:textSize="12.0sp" android:textColor="@color/black" android:id="@id/expiry_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/qr_code_valid_for" android:layout_marginEnd="4.0dip" />
+    <androidx.appcompat.widget.AppCompatTextView android:textAppearance="@style/TextStyleFontSemiBold" android:textSize="12.0sp" android:textStyle="bold" android:textColor="@color/chat_bubble_green" android:gravity="center" android:id="@id/expiry_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="10.0dip" />
+</LinearLayout>

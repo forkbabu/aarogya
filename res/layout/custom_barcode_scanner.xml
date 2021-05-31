@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/custom_scanner" android:tag="layout/custom_barcode_scanner_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.journeyapps.barcodescanner.BarcodeView android:id="@id/zxing_barcode_surface" android:layout_width="fill_parent" android:layout_height="fill_parent" app:zxing_preview_scaling_strategy="centerCrop" />
+    <nic.goi.aarogyasetu.qrcode.CustomViewFinderView android:id="@id/zxing_viewfinder_view" android:layout_width="fill_parent" android:layout_height="fill_parent" app:borderWidth="4.0dip" app:cornerRadius="6.0dip" app:zxing_possible_result_points="@android:color/white" app:zxing_result_view="@color/zxing_custom_result_view" app:zxing_viewfinder_mask="@color/zxing_custom_viewfinder_mask" />
+    <RelativeLayout android:layout_gravity="bottom" android:id="@id/prompt_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="16.0dip">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:id="@id/generate_qr" android:background="@drawable/button_with_light_stroke" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/generate_my_qr_code" android:layout_below="@id/status_view" android:layout_centerHorizontal="true" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@id/status_view" android:background="@color/zxing_transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="50.0dip" android:text="@string/scan_prompt" />
+    </RelativeLayout>
+    <ImageView android:id="@id/close" android:padding="4.0dip" android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="20.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/ic_close_white" android:contentDescription="@null" />
+    <include layout="@layout/status_view" />
+</FrameLayout>

@@ -1,0 +1,44 @@
+.class public final synthetic Lr/c/a/b/i/b/u;
+.super Ljava/lang/Object;
+.source "com.google.android.gms:play-services-measurement-impl@@17.4.3"
+
+# interfaces
+.implements Lr/c/a/b/i/b/n3;
+
+
+# static fields
+.field public static final a:Lr/c/a/b/i/b/n3;
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 1
+
+    new-instance v0, Lr/c/a/b/i/b/u;
+
+    invoke-direct {v0}, Lr/c/a/b/i/b/u;-><init>()V
+
+    sput-object v0, Lr/c/a/b/i/b/u;->a:Lr/c/a/b/i/b/n3;
+
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a()Ljava/lang/Object;
+    .locals 1
+
+    invoke-static {}, Lr/c/a/b/i/b/p;->l0()Ljava/lang/Integer;
+
+    move-result-object v0
+
+    return-object v0
+.end method

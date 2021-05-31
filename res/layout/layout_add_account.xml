@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/add_account_view" android:tag="layout/layout_add_account_0" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_status" android:contentDescription="@string/image_back_content_description" />
+    <TextView android:textSize="16.0sp" android:gravity="center" android:id="@id/add_account_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/keep_a_check_on_app" style="@style/BoldTitleTextStyle" />
+    <Button android:layout_gravity="center" android:id="@id/add_button" android:background="@drawable/button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/add_account" android:drawableLeft="@drawable/ic_add_white" />
+</LinearLayout>

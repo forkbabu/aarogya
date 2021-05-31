@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">ചേർക്കുക</string>
+    <string name="add_account">അക്കൗണ്ട് ചേർക്കുക</string>
+    <string name="always_approve">എന്തുകൊണ്ട്</string>
+    <string name="always_approved">എപ്പോഴും അംഗീകരിച്ചു</string>
+    <string name="always_ask">എല്ലാ സമയത്തും അംഗീകാരത്തിനായി ആവശ്യപ്പെടുക</string>
+    <string name="app_name">ആരോഗ്യ സേതു</string>
+    <string name="app_version">അപ്ലിക്കേഷൻ പതിപ്പ് %s</string>
+    <string name="approval_notification_title">ആരോഗ്യ സേതു നില ആക്സസ് ചെയ്യുന്നതിനുള്ള അഭ്യർത്ഥന</string>
+    <string name="approval_request_time_interval" formatted="false">ഈ അഭ്യർത്ഥന %s മുതൽ %s വരെയാണ്</string>
+    <string name="approval_request_title" formatted="false">%s നിങ്ങളുടെ നിലയ്ക്കായി %s അഭ്യർത്ഥിച്ചു</string>
+    <string name="approval_request_with_reason_and_time_title" formatted="false">%s ന് %s മുതൽ %s വരെ നിങ്ങളുടെ %s സ്റ്റാറ്റസിനായി %s അഭ്യർത്ഥിച്ചു</string>
+    <string name="approval_request_with_reason_title" formatted="false">%sന് നിങ്ങളുടെ %s സ്റ്റാറ്റസിനായി %s അഭ്യർത്ഥിച്ചു</string>
+    <string name="approvals">അംഗീകാരങ്ങൾ</string>
+    <string name="approvals_no_preference_summary">നിലവിൽ നിങ്ങളുടെ ആരോഗ്യ സേതു നിലയിലേക്ക് പ്രവേശിക്കുന്ന ബാഹ്യ അപ്ലിക്കേഷനുകളൊന്നുമില്ല.</string>
+    <string name="approvals_no_user_preference_summary">നിലവിൽ നിങ്ങളുടെ ആരോഗ്യ സേതു നിലയിലേക്ക് പ്രവേശിക്കുന്ന ബാഹ്യ ഉപയോക്താക്കളൊന്നുമില്ല.</string>
+    <string name="approvals_preference">അംഗീകാര മുൻഗണനകൾ</string>
+    <string name="approvals_preference_summary">നിങ്ങളുടെ ആരോഗ്യ സേതു നിലയിലേക്ക് മാത്രം പ്രവേശിക്കാൻ കഴിയുന്ന ബാഹ്യ അപ്ലിക്കേഷനുകൾ.</string>
+    <string name="approvals_preference_title">ആരോഗ്യ സേതു നിലയ്‌ക്കുള്ള അംഗീകാരം</string>
+    <string name="approve">അംഗീകരിക്കുക</string>
+    <string name="approved">അംഗീകരിച്ചു</string>
+    <string name="apps">അപ്ലിക്കേഷനുകൾ</string>
+    <string name="auth_error_invalid_otp">ddനിങ്ങൾ നൽകിയ OTP തെറ്റാണ്</string>
+    <string name="auth_error_unknown">സാങ്കേതിക പിഴവുകൾ കാരണം താങ്കളെ ഇപ്പോൾ ലോഗിൻ ചെയ്യാൻ സാധിക്കുന്നില്ല</string>
+    <string name="auth_error_user_disabled">You are not allowed to sign in</string>
+    <string name="auto_approved">യാന്ത്രികമായി അംഗീകരിച്ചു</string>
+    <string name="auto_rejected">സ്വയമേവ നിരസിച്ചു</string>
+    <string name="block">തടയുക</string>
+    <string name="blocked">തടഞ്ഞു</string>
+    <string name="bluetooth">&lt;b>ബ്ലൂടൂത്ത്&lt;/b></string>
+    <string name="bluetooth_and_gps">Bluetooth &amp; Location</string>
+    <string name="call_helpline">ഹെൽപ്പ് ലൈനിൽ വിളിക്കുക (1075)</string>
+    <string name="call_helpline_detail">കോവിഡ്-19 മായി ബന്ധപ്പെട്ട ചോദ്യങ്ങൾക്ക് ആരോഗ്യ മന്ത്രാലയത്തിന്റെ ടോൾ ഫ്രീ ഹെൽപ്പ്ലൈൻ</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="close">ക്ലോസ് ചെയ്യുക</string>
+    <string name="code">കോഡ്</string>
+    <string name="code_valid_for">കോഡ് 45 മിനിറ്റിന് സാധുതയുള്ളതാണ്</string>
+    <string name="common_scanning_error">ചില പിശക് സംഭവിച്ചു. ദയവായി വീണ്ടും സ്കാൻ ചെയ്യുക.</string>
+    <string name="confirm_and_proceed">സ്ഥിരീകരിച്ച് തുടരുക</string>
+    <string name="contribute_to_a_safer_india">ഞാൻ അംഗീകരിക്കുന്നു</string>
+    <string name="copy">പകർത്തുക</string>
+    <string name="country_code">+91</string>
+    <string name="cowin_20_tracks_through">ഒരു പക്ഷെ COVID-19 സ്ഥിരീകരിക്കപ്പെട്ടേക്കാവുന്ന ഒരാളുമായുള്ള നിങ്ങളുടെ ഇടപഴകൽ ബ്ലൂടൂത്ത്/ജിപിഎസ് സാങ്കേതിക വിദ്യ ഉപയോഗിച്ച് സൃഷ്ടിച്ച ഒരു സോഷ്യൽ ഗ്രാഫ് മുഖേന &lt;b>ആരോഗ്യ സേതു&lt;/b> ട്രാക്ക് ചെയുന്നു.</string>
+    <string name="data_sharing_with_the_ministry">&lt;b>ടാറ്റ ഷെയറിങ്&lt;/b></string>
+    <string name="delete_account">അക്കൗണ്ട് ഇല്ലാതാക്കുക</string>
+    <string name="delete_account_confirm">നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കുന്നത് തുടരാൻ, ദയവായി നിങ്ങളുടെ മൊബൈൽ നമ്പർ സ്ഥിരീകരിക്കുക</string>
+    <string name="delete_account_summary">നിങ്ങളുടെ അക്കൗണ്ട് ശാശ്വതമായി ഇല്ലാതാക്കാനും എല്ലാ ഡാറ്റയും മായ്ക്കാനും കഴിയും.</string>
+    <string name="delete_account_title">എന്റെ അക്കൗണ്ട് ഇല്ലാതാക്കുക</string>
+    <string name="device_location">&lt;b>മൊബൈൽ ലൊക്കേഷൻ&lt;/b></string>
+    <string name="didnt_initiate_request">ഞാൻ ഈ അഭ്യർത്ഥന ആരംഭിച്ചിട്ടില്ല</string>
+    <string name="each_one_of_us">ഇൻഡ്യയിൽ കൊറോണ വൈറസ് പടരുന്നത് തടയുവാനുള്ള ശക്തി നമ്മളിൽ ഓരോരുത്തരിലും നിക്ഷിപ്തമാണ്.</string>
+    <string name="enter_code">കോഡ് നൽകുക</string>
+    <string name="enter_mobile_number">മൊബൈൽ നമ്പർ നൽകുക</string>
+    <string name="enter_otp">OTP നൽകുക</string>
+    <string name="error_location">നിങ്ങളുടെ ഫോണിന്റെ ലൊക്കേഷൻ സെറ്റിംഗ്സ് ഈ ആപ്പിൽ നിന്നും പരിഹരിക്കാൻ കഴിയാത്ത വിധം അപൂർണ്ണമാണ്‌. ദയവുചെയ്ത് നിങ്ങളുടെ ഫോണിന്റെ സെറ്റിംഗ്സ് ഉപയോഗിച്ച് പരിഹരിക്കുക.</string>
+    <string name="error_network_error">നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധിക്കുക</string>
+    <string name="error_select_option">ദയവായി ഒരു ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക</string>
+    <string name="expired_code">കാലഹരണപ്പെട്ട QR കോഡ്</string>
+    <string name="faq">പതിവുചോദ്യങ്ങൾ</string>
+    <string name="few_seconds">കുറച്ച് നിമിഷങ്ങൾ</string>
+    <string name="few_seconds_ago">കുറച്ച് സെക്കൻഡ് മുമ്പ്</string>
+    <string name="forty_five_min">45 മിനിറ്റ്</string>
+    <string name="generate_and_share">നിങ്ങളുടെ കോഡ് സൃഷ്‌ടിച്ച് പങ്കിടുക</string>
+    <string name="generate_code">കോഡ് സൃഷ്ടിക്കുക</string>
+    <string name="generate_my_qr_code">എന്റെ QR കോഡ് സൃഷ്ടിക്കുക</string>
+    <string name="generator_scanner_qr_code">QR കോഡ് സൃഷ്ടിക്കുക / സ്കാൻ ചെയ്യുക</string>
+    <string name="get_code_detail">സ്ഥിരീകരിക്കുന്നതിനും ചേർക്കുന്നതിനുമായി അക്കൗണ്ട് ഉടമയിൽ നിന്ന് അദ്വിതീയ കോഡ് നേടുക</string>
+    <string name="hamburger_menu_intro">ഹെൽപ്പ്ലൈൻ, സ്വകാര്യതാ നയം, ഉപയോഗ നിബന്ധനകൾ തുടങ്ങി ഒരുപാട് സവിശേഷതകൾ ഇവിടെ കാണാവുന്നതാണ്</string>
+    <string name="high_risk">അണുബാധയുടെ സാധ്യത വളരെ കൂടുതലാണ്</string>
+    <string name="i_understand">ഞാൻ മനസിലാക്കുന്നു</string>
+    <string name="image_back_content_description">തിരികെ</string>
+    <string name="image_close_content_description">@string/close</string>
+    <string name="image_language_change_content_description">ഭാഷ മാറ്റുക</string>
+    <string name="image_menu_content_description">മെനു</string>
+    <string name="image_on_board_content_description">ഓൺ-ബോർഡിംഗിൽ കാണിക്കുക</string>
+    <string name="image_share_content_description">അപേക്ഷ ഷെയർ ചെയ്യുക</string>
+    <string name="image_user_content_description">ഉപയോക്താവ്</string>
+    <string name="install">Install</string>
+    <string name="invalid_qr_code">QR കോഡ് അസാധുവാണ്</string>
+    <string name="is_safe_303">സുരക്ഷിതമാണ്</string>
+    <string name="keep_a_check_on_app">നിങ്ങളുടെ അടുത്തുള്ളവരുടെ ആരോഗ്യ സേതു നിലയെക്കുറിച്ച് ഒരിടത്ത് നിന്ന് നിങ്ങൾക്ക് പരിശോധിക്കാം.</string>
+    <string name="location_sharing">location sharing</string>
+    <string name="location_text">"നിങ്ങളുടെ ലൊക്കേഷൻ സെറ്റിംഗ്സ് 'ആൽവേസ് ’ ആയി സെറ്റ് ചെയ്യുക . നിങ്ങൾക്ക് ഇത് എപ്പോൾ വേണമെങ്കിലും മാറ്റാനാകും."</string>
+    <string name="login_failed">ലോഗിൻ ചെയ്യുന്നത് പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="low_risk">അണുബാധയുടെ സാധ്യത കുറവാണ്</string>
+    <string name="make_sure_your_phone_is_connected_to_the_wifi_or_switch_to_mobile_data">നിങ്ങളുടെ ഫോൺ വൈഫൈയിലേക്ക് കണക്റ്റുചെയ്‌തിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക അല്ലെങ്കിൽ മൊബൈൽ ഡാറ്റയിലേക്ക് മാറുക.</string>
+    <string name="minute_ago">1 മിനിറ്റ് മുമ്പ്</string>
+    <string name="minutes_ago">%s മിനിറ്റ് മുമ്പ്</string>
+    <string name="mobile_number">മൊബൈൽ നമ്പർ</string>
+    <string name="moderate_risk">അണുബാധയുടെ മിതമായ അപകടസാധ്യതയിലാണ്</string>
+    <string name="monitors_your_device_s_proximity_within_6_feet_range">"ബ്ലൂടൂത്ത് നിങ്ങളുടെ മൊബൈലിൽ നിന്നും മറ്റു മൊബൈലുകളിലേക്കുള്ള ദൂരം അളക്കാൻ സഹായിക്കുന്നു.
+നിങ്ങളുടെ മൊബൈലിന്റെ ബ്ലുടൂത് എപ്പോഴും ഓൺ ചെയ്‌തു വയ്ക്കുവാൻ നിർദ്ദേശിക്കുന്നു"</string>
+    <string name="next">आगे</string>
+    <string name="no_pending_approval_detail">നിങ്ങളുടെ അംഗീകാരത്തിനായി “ആരോജ്യ സെറ്റു സ്റ്റാറ്റസ്” അഭ്യർത്ഥനകളൊന്നും തീർപ്പുകൽപ്പിക്യാനില്ല</string>
+    <string name="no_pending_approval_title">തീർപ്പുകൽപ്പിക്കാത്ത അഭ്യർത്ഥനകളൊന്നുമില്ല</string>
+    <string name="not_generated_aarogya_setu">ഇത് ഔദ്യോഗിക ആരോജ്യ സെറ്റു അപ്ലിക്കേഷൻ സൃഷ്ടിച്ചതല്ല.</string>
+    <string name="of_request" formatted="false">%s അഭ്യർത്ഥനകളുടെ %s</string>
+    <string name="ok">ഒകെ</string>
+    <string name="open_settings">ക്രമീകരണങ്ങൾ തുറക്കുക</string>
+    <string name="other">മറ്റുള്ളവ</string>
+    <string name="otp">OTP</string>
+    <string name="permission_access_preference_summary">നിങ്ങളുടെ ആരോഗ്യ സേതു സ്റ്റാറ്റസ് ആക്സസ് ചെയ്യാൻ കഴിയുന്ന ബാഹ്യ ആപ്ലിക്കേഷനുകൾ അല്ലെങ്കിൽ ഉപയോക്താക്കൾ.</string>
+    <string name="permission_access_preference_title">ആക്സസ് നിലയിലേക്കുള്ള അനുമതി</string>
+    <string name="permission_alert_message">നിങ്ങളുടെ ഫോൺ സെറ്റിങ്സിൽ ലൊക്കേഷനും ബ്ലൂടൂത്തും പ്രവർത്തിപ്പിക്കാൻ ആവശ്യമായ അനുമതികൾ നൽകുക. ശേഷം ആപ്പിലേക്ക് മടങ്ങി വീണ്ടും ക്ലിക്ക് ചെയ്യുക.</string>
+    <string name="permission_info_tnc_text">&lt;p>നിങ്ങൾ ഒരു സുരക്ഷിത ഭാരതത്തിനു വേണ്ടി സംഭാവന ചെയ്യുവാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, താഴെയുള്ള ബട്ടണിൽ ക്ലിക്കുചെയ്തു &lt;a href=https://static.swaraksha.gov.in/tnc/>സേവന നിബന്ധനകളും&lt;/a> &lt;a href=https://web.swaraksha.gov.in/ncv19/privacy/>സ്വകാര്യതാ നയവും&lt;/a> അംഗീകരിക്കുക:&lt;/p></string>
+    <string name="permissions_detail">ഈ വിഷയത്തിൻറ്റെ സ്വഭാവവും ഗൗരവവും കണക്കിലെടുത്തുകൊണ്ട് നിങ്ങളുടെ സ്വകാര്യ വിവരങ്ങളുടെ സുരക്ഷ ഉറപ്പുവരുത്താനുള്ള എല്ലാ നടപടികളും സ്വീകരിച്ചിട്ടുണ്ട്.</string>
+    <string name="permissions_title">സേവന സ്വകാര്യത നിബന്ധനകൾ</string>
+    <string name="please_enter_a_valid_code">സാധുവായ ഒരു കോഡ് നൽകുക.</string>
+    <string name="please_enter_a_valid_number">ദയവായി ശെരിയായ നമ്പർ നൽകുക</string>
+    <string name="please_enter_a_valid_otp">ദയവായി ശെരി ആയ OTP നൽകുക</string>
+    <string name="please_select_a_language_en">"Please select your language
+कृपया अपनी भाषा चुनें"</string>
+    <string name="please_select_a_language_to_proceed">ദയവായി ഒരു ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+    <string name="privacy_policy">സ്വകാര്യതാനയം</string>
+    <string name="provide_necessary_permission">നിങ്ങളുടെ Qr കോഡ് ക്യാപ്‌ചർ ചെയ്യുന്നതിന് ആവശ്യമായ അനുമതി നൽകുക</string>
+    <string name="qr_code_valid_for">QR കോഡ് സാധുവാണ്</string>
+    <string name="refresh">Refresh</string>
+    <string name="register_now">രജിസ്റ്റർ ചെയ്യുക</string>
+    <string name="registered_mobile_detail">നിങ്ങളുടെ ആരോഗ്യ സേതു നില പങ്കിടാൻ ആഗ്രഹിക്കുന്ന വ്യക്തിയുടെ മൊബൈൽ നമ്പർ നൽകുക</string>
+    <string name="reject">നിരസിക്കുക</string>
+    <string name="rejected">നിരസിച്ചു</string>
+    <string name="remove">നീക്കംചെയ്യുക</string>
+    <string name="report">റിപ്പോർട്ട് ചെയ്യുക</string>
+    <string name="report_abuse">ദുരുപയോഗ വിവരം അറിയിക്കുക</string>
+    <string name="report_abuse_detail">പ്രശ്നം മനസിലാക്കാൻ ഞങ്ങളെ സഹായിക്കുക</string>
+    <string name="report_abuse_title">ഈ അഭ്യർത്ഥനയിൽ എന്താണ് തെറ്റ്?</string>
+    <string name="request_always_approved">അഭ്യർത്ഥന അംഗീകരിച്ചു</string>
+    <string name="request_always_approved_detail">%s ഭാവിയിലെ അഭ്യർത്ഥനകൾക്കായി നിങ്ങളുടെ ആരോഗ്യ സെറ്റു നിലയിലേക്ക് പ്രവേശിക്കാൻ കഴിയും. ക്രമീകരണങ്ങളിൽ നിന്ന് നിങ്ങൾക്ക് എപ്പോൾ വേണമെങ്കിലും ഇത് പ്രവർത്തനരഹിതമാക്കാം</string>
+    <string name="request_approved">അഭ്യർത്ഥന അംഗീകരിച്ചു</string>
+    <string name="request_approved_detail">%s നിങ്ങളുടെ ആരോഗ്യ സെതു സ്റ്റാറ്റസിലേക്ക് ഒരു തവണ ആക്സസ് ലഭിക്കും</string>
+    <string name="request_new_code">പുതിയ കോഡ് സൃഷ്ടിക്കാൻ വ്യക്തിയോട് അഭ്യർത്ഥിക്കുക</string>
+    <string name="request_rejected">അഭ്യർത്ഥന നിരസിച്ചു</string>
+    <string name="request_rejected_detail">%s നിങ്ങളുടെ ആരോഗ്യ സെതു സ്റ്റാറ്റസ് ആക്സസ് ചെയ്യാൻ കഴിയില്ല</string>
+    <string name="resend_otp">OTP വീണ്ടും അയക്കുക</string>
+    <string name="resend_otp_in">OTP %s വീണ്ടും ലഭിക്കുവാൻ</string>
+    <string name="retry">വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="sample_collected_for_testing">ടെസ്റ്റിംഗിനായി ശേഖരിച്ച സാമ്പിൾ</string>
+    <string name="scan_other_s_qr_code">QR കോഡ് സ്കാൻ ചെയ്യുക</string>
+    <string name="scan_prompt">മറ്റൊരാളുടെ ആരോഗ്യസ്ഥിതി പരിശോധിക്കുന്നതിന് QR കോഡ് സ്കാൻ ചെയ്യുക</string>
+    <string name="scan_to_check_status">എന്റെ ആരോഗ്യസ്ഥിതി ലഭിക്കുന്നതിന് QR കോഡ് സ്കാൻ ചെയ്യുക</string>
+    <string name="scan_without_perm_alert">QR കോഡ് സ്കാനിംഗിന് അപ്ലിക്കേഷന് ക്യാമറ അനുമതി ആവശ്യമാണ്.</string>
+    <string name="settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="share">പങ്കിടുക</string>
+    <string name="share_code_to_enable">നിങ്ങളുടെ സ്റ്റാറ്റസ് പരിശോധിക്കുന്നതിന് ഫോൺ നമ്പർ( %s ) ഉള്ള ഉപയോക്താവിനെ പ്രാപ്തമാക്കുന്നതിന് കോഡ് പങ്കിടുക.</string>
+    <string name="share_data_with_govt">സർക്കാരുമായി ഡാറ്റ പങ്കിടുക</string>
+    <string name="share_data_with_govt_detail">നിങ്ങൾ കോവിഡ്-19 നായി പോസിറ്റീവ് പരീക്ഷിച്ചിട്ടുണ്ടെങ്കിലോ, നിലവിൽ പരീക്ഷിക്കുകയാണെങ്കിലോ മാത്രം പങ്കിടുക</string>
+    <string name="share_your_code">നിങ്ങളുടെ കോഡ് പങ്കിടുക</string>
+    <string name="simply_1_install_the_app">ആദ്യമായി, १ അപ്ലിക്കേഷൻ ഇൻസ്റ്റാൾ ചെയ്യുക २. ബ്ലൂടൂത്ത് / ജിപിഎസ് ഓണാക്കുക ३. ലൊക്കേഷൻ ഷെയറിങ് Always എന്നായി സെറ്റ് ചെയ്യുക അപ്ലിക്കേഷൻ ഇൻസ്റ്റാളുചെയ്യാൻ നിങ്ങളുടെ സുഹൃത്തുക്കളെയും കുടുംബാംഗങ്ങളെയും ക്ഷണിക്കുക</string>
+    <string name="status_check">നില പരിശോധന</string>
+    <string name="status_check_detail">നിങ്ങളുടെ അടുത്ത ആളുകളുടെ ആരോഗ്യ സേതു നിലയെക്കുറിച്ച് ഒന്ന് പരിശോധിക്കുക</string>
+    <string name="submit">സബ്മിറ്</string>
+    <string name="suspicious_spam">ഇത് സംശയാസ്പദമാണ് അല്ലെങ്കിൽ സ്പാം ആണ്</string>
+    <string name="sync_data_detail">നിങ്ങളുടെ ഡാറ്റ എപ്പോഴും നിങ്ങളുടെ ഫോണിൽ സേവ് ചെയ്തിരിക്കും. സുരക്ഷിതമായ ഗവൺമെന്‍റ് സെർവറുകളിൽ അത് ഷെയർ ചെയ്യുക…</string>
+    <string name="sync_data_user_consent">ഫലങ്ങൾ കണ്ടെത്തുന്ന കോൺടാക്റ്റുകളുടെ കൃത്യത പരിഷ്‌ക്കരിക്കുന്നതിന്, ഇന്ത്യാ ഗവൺമെന്റിന്റെ സുരക്ഷിത സെർവറുകളിലേക്ക് നിങ്ങളുടെ ഡാറ്റ അപ്‌ലോഡുചെയ്യുക.</string>
+    <string name="syncing_data">ഡാറ്റ സിൻക് ചെയ്യുന്നു</string>
+    <string name="syncing_data_detail">ബ്ലൂടൂത്ത്, GPS സേവനങ്ങൾ ഉപയോഗിച്ച് പകർത്തിയ ഇന്‍ററാക്ഷന്‍ ഡാറ്റ ഇന്ത്യാ ഗവൺമെന്‍റിന് അയക്കുന്നു</string>
+    <string name="syncing_data_failed">സിൻക് പരാജയപ്പെട്ടു</string>
+    <string name="syncing_data_failed_detail">എന്തോ കുഴപ്പം സംഭവിച്ചു, ദയവായി വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="syncing_data_success">സിൻക് വിജയകരം</string>
+    <string name="syncing_data_success_detail">നിങ്ങളുടെ ഡാറ്റ ഇപ്പോൾ ഇന്ത്യാ ഗവൺമെന്‍റിന്‍റെ സെർവറുകളിൽ സുരക്ഷിതമാണ്</string>
+    <string name="tap_to_refresh">QR കോഡ് പുതുക്കുന്നതിന് ടാപ്പുചെയ്യുക</string>
+    <string name="terms_of_use">ഉപയോഗ നിബന്ധനകൾ</string>
+    <string name="tested_positive">COVID19 നുള്ള ടെസ്റ്റ് പോസിറ്റീവ് ആണ്</string>
+    <string name="tested_positive_status">കോവിഡ്-19 ന്നായി പോസിറ്റീവ് പരീക്ഷിച്ചു</string>
+    <string name="text_value">"നിങ്ങൾ ഒരാഴ്ച മുമ്പ് ഒരു ഒത്തുചേരലിൽ ഒരാളെ കണ്ടുമുട്ടി അല്ലെങ്കിൽ ഒരു പൊതു സ്ഥലത്ത് അജ്ഞാതനായ ഒരാളുമായി അടുത്തിരുന്നു എന്ന് കരുതുക. കുറച്ച് ദിവസത്തിനുള്ളിൽ അവർക്ക് COVID-19 സ്ഥിരീകരിക്കപ്പെടുന്നു.
+
+ഈ അപ്പ്ലിക്കേഷന്റെ സഹായത്തോടെ ഭാരത സർക്കാർ കഴിഞ്ഞ 14 ദിവസത്തിനുള്ളിൽ ആ വ്യക്തിയുടെ നിശ്ചിത ചുറ്റളവിൽ ഉണ്ടായിരുന്ന APP ഇൻസ്റ്റാൾ ചെയ്തിട്ടുള്ള ആളുകളെ കണ്ടെത്തുന്നു
+
+അത്തരം എല്ലാ വ്യക്തികൾക്കും തുടർ നടപടികളായി സ്വയം ക്വാറന്റൈൻ അല്ലെങ്കിൽ ആവശ്യാനുസരണം അടുത്തുള്ള ഒരു ടെസ്റ്റിംഗ് സെന്ററിൽ എങ്ങിനെ പരിശോധന നടത്താം എന്നതിനെ കുറിച്ചുമുള്ള നോട്ടിഫിക്കേഷൻ അയക്കുന്നതായിരിക്കും.
+
+സജീവ കോൺടാക്റ്റ് ട്രെയ്സിംഗിൽ പങ്കെടുക്കുന്നതിലൂടെ, COVID-19 ന്റെ വ്യാപനം കുറയ്ക്കാനും നിങ്ങളുടെ ആരോഗ്യത്തിനും ക്ഷേമത്തിനുമായി സജീവമായ നടപടികൾ നടപ്പിലാക്കാൻ ഭാരത സർക്കാരിനെ പ്രാപ്തമാക്കുകയും ചെയ്യും.
+
+"</string>
+    <string name="the_app_alerts_are_accompanied">App മുഖേനെയുള്ള മുന്നറിയിപ്പിനൊപ്പം നിങ്ങൾക്കു എങ്ങനെ സ്വയം ക്വാറന്റൈൻ ചെയ്യാമെന്നും, എന്തെങ്കിലും രോഗ ലക്ഷണങ്ങളുണ്ടെങ്കിൽ എന്ത് ചെയ്യണമെന്നുമുള്ള നിർദ്ദേശങ്ങളും ഉണ്ടാകുന്നതാണ്.</string>
+    <string name="today_at">ഇന്ന് %s</string>
+    <string name="tracks_an_individual_s_touch_points_so_can_easily_find_others_who_came_in_close_contact">നിങ്ങളുടെ ടാറ്റ ഭാരത സർക്കാരുമായി മാത്രം പങ്കുവയ്ക്കുന്നതായിരിക്കും. നിങ്ങളുടെ പേരും നമ്പറും ഒരു സമയത്തും പൊതുജനങ്ങൾക്ക് വെളിപ്പെടുത്താൻ അപ്ലിക്കേഷൻ അനുവദിക്കുന്നില്ല.</string>
+    <string name="turn_on_bluetooth_all_times">മറ്റ് ഉപകരണങ്ങളുമായുള്ള നിങ്ങളുടെ സാമീപ്യം നിശ്ചിതപ്പെടുത്തുവാനും കൃത്യമായ സുരക്ഷാ അപ്‌ഡേറ്റുകൾ നൽകാനും എല്ലായ്‌പ്പോഴും നിങ്ങളുടെ ഫോണിന്റെ ബ്ലൂടൂത്ത് ഓണായിരിക്കണം.</string>
+    <string name="users">ഉപയോക്താക്കൾ</string>
+    <string name="verify_and_add">പരിശോധിച്ചുറപ്പിച്ച് ചേർക്കുക</string>
+    <string name="verify_installed_app">ഇൻസ്റ്റാളു ചെയ്‌ത അപ്ലിക്കേഷൻ പരിശോധിക്കുക</string>
+    <string name="view_request">അഭ്യർത്ഥന കാണുക</string>
+    <string name="want_app_to_keep_check">നിങ്ങളുടെ ആരോഗ്യ സേതു നില മറ്റുള്ളവർ പരിശോധിക്കണമെന്ന് നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+    <string name="we_have_resent_otp">हमने आपके मोबाइल नंबर पर OTP फिर से भेजा है।</string>
+    <string name="we_have_sent_otp">ഞങ്ങൾ നിങ്ങളുടെ മൊബൈൽ നമ്പറിലേക്ക് OTP അയച്ചിട്ടുണ്ട്.</string>
+    <string name="why">എന്തുകൊണ്ട്</string>
+    <string name="why_is_it_needed">എന്തുകൊണ്ട് ഇത് ആവശ്യമാണ്?</string>
+    <string name="with_cowin_20_you_can">&lt;b>ആരോഗ്യ സേതു&lt;/b> ഉപയോഗിച്ച്, നിങ്ങൾക്ക് നിങ്ങളെയും കുടുംബത്തെയും സുഹൃത്തുക്കളെയും പരിരക്ഷിക്കാനും COVID-19ന് എതിരെയുള്ള പോരാട്ടത്തിൽ നമ്മുടെ രാജ്യത്തെ സഹായിക്കാനും കഴിയും.</string>
+    <string name="would_you_like_to">COVID-19 സ്ഥിരീകരിച്ച ഒരാളുമായി നിങ്ങൾ ഇടപഴകിയിട്ടുണ്ടോ എന്ന് അറിയുവാൻ താല്പര്യം ഉണ്ടോ?</string>
+    <string name="you_will_be_alerted_if">അറിഞ്ഞോ അറിയാതെയോ അടുത്തിടപഴകിയവരിൽ ആർകെങ്കിലും COVID-19 സ്ഥിരീകരിക്കപ്പെട്ടാൽ നിങ്ങള്ക്ക് ഉടൻ തന്നെ മുന്നറിയിപ്പ് ലഭിക്കുന്നതായിരിക്കും.</string>
+    <string name="your_mobile_number_is_required_to_know_your_identity">കോൺടാക്റ്റ് ട്രേസ് ചയ്യാനായി നിങ്ങളുടെ മൊബൈൽ നമ്പർ ആവശ്യമാണ്.</string>
+</resources>

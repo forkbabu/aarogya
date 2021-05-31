@@ -1,0 +1,81 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: aarogya.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- res/drawable-xxhdpi-v4/group_8.webp
+- res/drawable-xxhdpi-v4/map_pins.webp
+- res/drawable-xxhdpi-v4/onboarding_four.webp
+- res/drawable-xxhdpi-v4/onboarding_one.webp
+- res/drawable-xxhdpi-v4/onboarding_three.webp
+- res/drawable-xxhdpi-v4/qr_app_logo.webp
+- res/drawable-xxhdpi-v4/splash_icons.webp
+- res/drawable-xxhdpi-v4/splash_logo.webp
+- res/drawable/bluetooth.webp
+- res/drawable/ic_more.webp
+- res/drawable/ic_right_arrow.webp
+- res/drawable/ic_sync_data.webp
+- res/drawable/iv_status_check.webp
+- res/drawable/lock_emblem.webp
+- res/drawable/no_network.webp
+- ogg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  androidsupportmultidexversion.txt: '8'
+  build-data.properties: '8'
+  firebase-abt.properties: '8'
+  firebase-analytics-ktx.properties: '8'
+  firebase-analytics.properties: '8'
+  firebase-common-ktx.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-config.properties: '8'
+  firebase-datatransport.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-installations-interop.properties: '8'
+  firebase-installations.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-location.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-places-placereport.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  fabric/com.crashlytics.sdk.android.answers.properties: '8'
+  fabric/com.crashlytics.sdk.android.beta.properties: '8'
+  fabric/com.crashlytics.sdk.android.crashlytics-core.properties: '8'
+  fabric/com.crashlytics.sdk.android.crashlytics.properties: '8'
+  fabric/io.fabric.sdk.android.fabric.properties: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '1057'
+  versionName: 1.4.1
